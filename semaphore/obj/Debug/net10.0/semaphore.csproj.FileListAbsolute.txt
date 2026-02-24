@@ -1,0 +1,14 @@
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\semaphore.GeneratedMSBuildEditorConfig.editorconfig
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\semaphore.AssemblyInfoInputs.cache
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\semaphore.AssemblyInfo.cs
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\semaphore.csproj.CoreCompileInputs.cache
+D:\www.projects.com\proof-concepts\csharp\semaphore\bin\Debug\net10.0\semaphore.exe
+D:\www.projects.com\proof-concepts\csharp\semaphore\bin\Debug\net10.0\semaphore.deps.json
+D:\www.projects.com\proof-concepts\csharp\semaphore\bin\Debug\net10.0\semaphore.runtimeconfig.json
+D:\www.projects.com\proof-concepts\csharp\semaphore\bin\Debug\net10.0\semaphore.dll
+D:\www.projects.com\proof-concepts\csharp\semaphore\bin\Debug\net10.0\semaphore.pdb
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\semaphore.dll
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\refint\semaphore.dll
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\semaphore.pdb
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\semaphore.genruntimeconfig.cache
+D:\www.projects.com\proof-concepts\csharp\semaphore\obj\Debug\net10.0\ref\semaphore.dll

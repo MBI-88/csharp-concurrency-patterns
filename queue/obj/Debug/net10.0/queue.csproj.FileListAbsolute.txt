@@ -1,0 +1,14 @@
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\queue.AssemblyInfoInputs.cache
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\queue.AssemblyInfo.cs
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\queue.csproj.CoreCompileInputs.cache
+D:\www.projects.com\proof-concepts\csharp\queue\bin\Debug\net10.0\queue.exe
+D:\www.projects.com\proof-concepts\csharp\queue\bin\Debug\net10.0\queue.deps.json
+D:\www.projects.com\proof-concepts\csharp\queue\bin\Debug\net10.0\queue.runtimeconfig.json
+D:\www.projects.com\proof-concepts\csharp\queue\bin\Debug\net10.0\queue.dll
+D:\www.projects.com\proof-concepts\csharp\queue\bin\Debug\net10.0\queue.pdb
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\queue.dll
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\refint\queue.dll
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\queue.pdb
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\queue.genruntimeconfig.cache
+D:\www.projects.com\proof-concepts\csharp\queue\obj\Debug\net10.0\ref\queue.dll

@@ -1,0 +1,14 @@
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\concurrency.GeneratedMSBuildEditorConfig.editorconfig
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\concurrency.AssemblyInfoInputs.cache
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\concurrency.AssemblyInfo.cs
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\concurrency.csproj.CoreCompileInputs.cache
+D:\www.projects.com\proof-concepts\csharp\concurrency\bin\Debug\net10.0\concurrency.exe
+D:\www.projects.com\proof-concepts\csharp\concurrency\bin\Debug\net10.0\concurrency.deps.json
+D:\www.projects.com\proof-concepts\csharp\concurrency\bin\Debug\net10.0\concurrency.runtimeconfig.json
+D:\www.projects.com\proof-concepts\csharp\concurrency\bin\Debug\net10.0\concurrency.dll
+D:\www.projects.com\proof-concepts\csharp\concurrency\bin\Debug\net10.0\concurrency.pdb
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\concurrency.dll
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\refint\concurrency.dll
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\concurrency.pdb
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\concurrency.genruntimeconfig.cache
+D:\www.projects.com\proof-concepts\csharp\concurrency\obj\Debug\net10.0\ref\concurrency.dll
